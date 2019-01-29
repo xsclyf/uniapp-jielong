@@ -1,0 +1,1 @@
+<template name="830ae2c4"><view class="_view 830ae2c4 uni-icon {{['uni-icon-' + type]}}" bindtap="handleProxy" data-eventid="{{'830ae2c4-0'}}" data-comkey="{{$k}}" style=" {{('color:' + color + ';' + 'font-size:' + fontSize + ';')}}"></view></template>

@@ -1,0 +1,11 @@
+<import src="/components/uni-nav-bar/uni-nav-bar.vue.wxml" />
+<import src="/components/uni-icon/uni-icon.vue.wxml" />
+<import src="/components/uni-status-bar/uni-status-bar.vue.wxml" />
+<import src="/common/slots.wxml" />
+
+<template name="ae9075bc-default-ae9075bc-2"><view class="_view ae9075bc input-view"><template type="search" data="{{...$root['0'], ...$root[$kk+'ae9075bc-0'],$root}}" is="830ae2c4"></template><input confirm-type="search" bindinput="handleProxy" bindconfirm="handleProxy" class="_input ae9075bc input" type="text" placeholder="输入搜索关键词" data-eventid="{{'ae9075bc-0'}}" data-comkey="{{$k}}" /></view></template>
+
+<template name="ae9075bc-left-ae9075bc-2"><text bindtap="handleProxy" data-eventid="{{'ae9075bc-1'}}" data-comkey="{{$k}}" class="_text ae9075bc">全部</text></template>
+
+<template name="ae9075bc-right-ae9075bc-2"><template type="contact" bindtap="handleProxy" data-eventid="{{'ae9075bc-2'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'ae9075bc-1'],$root}}" is="830ae2c4"></template></template>
+

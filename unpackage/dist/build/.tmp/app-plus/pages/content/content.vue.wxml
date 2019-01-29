@@ -1,0 +1,3 @@
+<template name="d43efba0"><view class="_view d43efba0">
+	上一页内容：{{content}} id:{{id}}
+</view></template>

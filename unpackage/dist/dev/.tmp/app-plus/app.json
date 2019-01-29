@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/ceshi/ceshi",
+    "pages/content/content"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "splashscreen": {
+    "autoclose": true
+  },
+  "appname": "喵酱接龙"
+}
